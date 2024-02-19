@@ -38,7 +38,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-                But now I am a second year International student study IT programming at NSCC. I am the top of my class, and all of my marks are over 90 percent.
+              But now I am a second year International student study IT programming at NSCC. I am the top of my class, and all of my marks are over 90 percent. I will graduate at the end of December this year 2024.
             </p>
             <br />
             <p>

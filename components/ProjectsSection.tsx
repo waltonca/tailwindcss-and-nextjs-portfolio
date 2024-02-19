@@ -6,27 +6,35 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Three in a Row Game (In-campus)",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "This is a simple three in a row game that I created for my MDE class. It uses HTML, CSS, JavaScript and React.",
+    image: "/threeinrowgame.png",
+    github: "https://github.com/waltonca/PROG2700-MDE-assignment-5c-waltonca",
+    link: "https://rowgame.vercel.app/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Bird Feeder (In-campus)",
+    description: "Bird Feeder is a small project for our IT project work term. We use Raspberry Pi to take pictures of birds and upload them to the Server through MQTT. We use Python, Flask, HTML, CSS, JavaScript, and React.",
+    image: "/birdfeeder.png",
+    github: "https://github.com/waltonca/BirdFeeder",
+    link: "https://birdfeed.netlify.app/",
   },
   {
-    name: "Kator Family Photos",
+    name: "Transit tracker (In-campus)",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "Fetch real-time transit data information data from a publicly available API. (Flight or Bus data).Filter the raw data to a subset with specific criteria.Convert the filtered API data into GeoJSON format.Plot markers on the map to display the current position of vehicles.",
+    image: "/hfxtransit.png",
+    github: "https://github.com/waltonca/PROG2700-MDE-assignment-3c-waltonca",
+    link: "https://hfxtransit.vercel.app",
+  },
+  {
+    name: "Radio and Television Website (Off-campus)",
+    description:
+      "This is a website that I created for a radio and television station in China. It uses HTML, CSS, JavaScript and TRS WCM. TRS WCM is a content management system that is widely used in China.like WordPress.",
+    image: "/cditv.png",
+    github: "https://www.trs.com.cn/",
+    link: "https://www.cditv.cn/",
   },
 ]
 
