@@ -25,7 +25,7 @@ const HeroSection = () => {
               <span className="font-semibold text-teal-600">
                 Web Developer{" "}
               </span>
-              with <span className="font-semibold text-teal-600">5 years</span> of experience. I am competent in front-end and back-end development.
+              with <span className="font-semibold text-teal-600">5 years</span> of experience. I&#39;m competent in front-end and back-end development.
             </p>
             <Link
               to="projects"
