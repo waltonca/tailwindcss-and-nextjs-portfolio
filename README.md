@@ -3,9 +3,9 @@
 This is my portfolio.
 
 ### Technologies
-Domain: namecheap
-Host: vercel
-CDN: cloudflare
+Domain: namecheap<br/>
+Host: vercel<br/>
+CDN: cloudflare<br/>
 
 ### Running Locally
 
